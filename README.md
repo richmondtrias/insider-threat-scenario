@@ -39,7 +39,8 @@ DeviceFileEvents
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account = InitiatingProcessAccountName
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/DeviceFileEvents.jpg)
+![DeviceFileEvents](https://github.com/user-attachments/assets/b2541a3f-8f26-4545-8a3a-7a04d9ebdc7a)
+
 ">
 
 ---
@@ -58,7 +59,8 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/DeviceProcessEvents.jpg)
+![DeviceProcessEvents](https://github.com/user-attachments/assets/8dfef62b-246c-48c9-9b83-66a73002db0b)
+
 ">
 
 ---
