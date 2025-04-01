@@ -1,4 +1,5 @@
-<img width="400" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/insider_threat_image.jpg)" alt="Insider Threat image"/>
+<img width="400" src="![image](![insider_threat_image](https://github.com/user-attachments/assets/7c677ecc-c07e-4adc-a588-c3df94861e93)
+)" alt="Insider Threat image"/>
 
 # Threat Hunt Report: Insider Threat
 - [Scenario Creation](https://github.com/richmondtrias/insider-threat-scenario/blob/main/insider_threat_exfil_sensitve_data_template.md)
