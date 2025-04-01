@@ -1,4 +1,4 @@
-<img width="400" src="![image](https://github.com/user-attachments/assets/9e480224-b93c-4dc5-b7c5-22975f99e171)" alt="Insider Threat image"/>
+<img width="400" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/insider_threat_image.jpg)" alt="Insider Threat image"/>
 
 # Threat Hunt Report: Insider Threat
 - [Scenario Creation](https://github.com/lharr076/insider-threat-scenario/blob/main/insider_threat_exfil_sensitve_data_template.md)
@@ -36,7 +36,7 @@ DeviceFileEvents
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account = InitiatingProcessAccountName
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="![image](https://github.com/user-attachments/assets/9be13ce8-92df-40ef-a56b-8d638fd52664)
+<img width="1212" alt="image" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/DeviceFileEvents.jpg)
 ">
 
 ---
@@ -55,7 +55,7 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="![image](https://github.com/user-attachments/assets/e4d6e9db-73fa-48e9-8549-20d5c3b6a0b7)
+<img width="1212" alt="image" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/DeviceProcessEvents.jpg)
 ">
 
 ---
