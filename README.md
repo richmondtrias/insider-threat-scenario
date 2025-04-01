@@ -1,7 +1,7 @@
 <img width="400" src="![image](https://github.com/richmondtrias/insider-threat-scenario/blob/main/assets/insider_threat_image.jpg)" alt="Insider Threat image"/>
 
 # Threat Hunt Report: Insider Threat
-- [Scenario Creation](https://github.com/lharr076/insider-threat-scenario/blob/main/insider_threat_exfil_sensitve_data_template.md)
+- [Scenario Creation](https://github.com/richmondtrias/insider-threat-scenario/blob/main/insider_threat_exfil_sensitve_data_template.md)
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
